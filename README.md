@@ -1,5 +1,5 @@
 <h1 align="center">✨ Bem-vindo(a) ao meu cantinho mágico ✨</h1>
-<h3 align="center"> Thais Maia — Front-end 🐱🪄</h3>
+<h3 align="center"> Thais Maia — Front-end 🪄</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=B197FC&center=true&vCenter=true&width=550&lines=Conjurando+interfaces+com+React+%26+TypeScript;Bacharelanda+em+Engenharia+de+Software;Po%C3%A7%C3%A3o+favorita%3A+caf%C3%A9+%2B+c%C3%B3digo+limpo+%E2%98%95;Transformando+ideias+em+c%C3%B3digo+desde+2019" alt="Typing SVG" />
