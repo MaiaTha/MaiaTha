@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/owl_1f989.png" width="60" alt="owl" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/owl_1f989.png" width="160" alt="owl" />
 </p>
 
 ---
@@ -52,6 +52,13 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaiaTha&layout=compact&theme=tokyonight&hide_border=true&title_color=B197FC&text_color=E5E5E5&bg_color=1a1a2e" alt="Top langs" />
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaiaTha/MaiaTha/output/github-snake.svg#gh-light-mode-only" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/MaiaTha/MaiaTha/output/github-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
+</p>
+
 
 ---
 
